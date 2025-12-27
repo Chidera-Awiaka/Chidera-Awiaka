@@ -63,8 +63,9 @@ Algorithmic validation + full unit test coverage.
 ### 📌 Pinned Projects
 (Click to explore them!)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chidera-Awiaka&repo=REPO-NAME&theme=tokyonight)](https://github.com/Chidera-Awiaka/AiChatBot-group7)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chidera-Awiaka&repo=REPO-NAME&theme=tokyonight)](https://github.com/Chidera-Awiaka/snake-game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chidera-Awiaka&repo=AiChatBot-group7&theme=tokyonight)](https://github.com/Chidera-Awiaka/AiChatBot-group7)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chidera-Awiaka&repo=snake-game&theme=tokyonight)](https://github.com/Chidera-Awiaka/snake-game)
 
 
 ---
@@ -90,6 +91,7 @@ I’m especially interested in internships where I can work on **scalable system
 ### 📊 GitHub Stats
 
 ![Chidera's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chidera-Awiaka&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chidera-Awiaka&layout=compact&theme=tokyonight)
 
 ---
