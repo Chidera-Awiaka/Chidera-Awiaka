@@ -18,25 +18,54 @@ I love turning complex problems into simple, reliable systems and building softw
 ---
 
 ### 🛠 Tech I Work With
-**Languages:** Python, Java, C++, JavaScript, Go, TypeScript  
-**AI / Data:** Pandas, NumPy, MATLAB, Matplotlib  
-**Web / Frameworks:** React, Next.js, REST APIs  
-**Databases:** MySQL, MongoDB  
-**DevOps & Tools:** Docker, Kubernetes, Linux, Git, CI/CD, Unit Testing  
+
+#### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+#### AI / Data
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
+
+#### DevOps / Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge)
 
 > I prioritize reliability, performance, and strong engineering practices.
 
 ---
 
 ### 🚀 Selected Projects
-🔬 **CURE ML Project** – Cancer diagnosis model using Python + Pandas  
-➡️ Built data pipelines, cleaned real-world datasets, and improved model reliability  
 
-🕹 **Computer-Vision Snake Game** – Hand-gesture controlled game using OpenCV  
-➡️ Learned real-time image processing, object detection, and performance tuning  
+#### 🔬 CURE ML Project — Cancer Diagnosis Model
+Machine learning pipeline for real-world medical data (Python, Pandas).  
+➡️ Focused on data cleaning, model evaluation, and reliability.
 
-📐 **Polygon Checker (C++ + Unit Tests)**  
-➡️ Implemented algorithmic logic + full test coverage with Microsoft C++ Test Framework  
+#### 🕹 Computer-Vision Snake Game
+Gesture-controlled snake game using OpenCV + Python.  
+➡️ Built real-time detection + performance tuning.
+
+#### 📐 Polygon Checker (C++ + Unit Tests)
+Algorithmic validation + full unit test coverage.  
+➡️ Learned defensive programming & software testing discipline.
+
+---
+
+### 📌 Pinned Projects
+(Click to explore them!)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chidera-Awiaka&repo=REPO-NAME&theme=tokyonight)](https://github.com/Chidera-Awiaka/AiChatBot-group7)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chidera-Awiaka&repo=REPO-NAME&theme=tokyonight)](https://github.com/Chidera-Awiaka/snake-game)
+
 
 ---
 
@@ -47,6 +76,8 @@ I’m working toward roles such as:
 - Backend Engineer Intern  
 - AI/ML Engineer Intern  
 
+I’m especially interested in internships where I can work on **scalable systems, intelligent features, and real-world user impact**.
+
 ---
 
 ### 🌱 Currently Improving
@@ -56,11 +87,16 @@ I’m working toward roles such as:
 
 ---
 
-### 🤝 Collaboration & Goals
-I love contributing to challenging projects — hackathons, open-source, research, or startups.  
-My long-term goal is to engineer systems that scale to **millions of users**.
+### 📊 GitHub Stats
 
-If you’re building something exciting, let’s talk!
+![Chidera's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chidera-Awiaka&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chidera-Awiaka&layout=compact&theme=tokyonight)
+
+---
+
+### 🤝 Collaboration & Goals
+I love collaborating on challenging projects, be it; open-source, hackathons, research, or startups.  
+My long-term goal is to engineer systems that scale to **millions of users**.
 
 ---
 
