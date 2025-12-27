@@ -46,7 +46,7 @@ I love turning complex problems into simple, reliable systems and building softw
 
 ### 🚀 Selected Projects
 
-#### 🔬 CURE ML Project — Cancer Diagnosis Model
+#### 🔬 CURE ML Project : Cancer Diagnosis Model
 Machine learning pipeline for real-world medical data (Python, Pandas).  
 ➡️ Focused on data cleaning, model evaluation, and reliability.
 
