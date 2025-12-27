@@ -4,7 +4,7 @@
 📍 Waterloo, Canada  
 🚀 Future Software Engineer focused on **AI, backend systems, full-stack development, and scalable infrastructure**
 
-I love turning complex problems into simple, reliable systems — and building software that makes a real impact.
+I love turning complex problems into simple, reliable systems and building software that makes a real impact.
 
 ---
 
